@@ -1,0 +1,7 @@
+O processamento de linguagem natural permite analisar textos e identificar padrões na linguagem. A análise de textos pode começar pela contagem de palavras e pela comparação das palavras encontradas em diferentes documentos.
+
+No processamento de linguagem natural, os documentos passam por etapas de normalização. A normalização reduz diferenças entre letras maiúsculas e minúsculas. A remoção de stopwords reduz a presença de palavras muito comuns, enquanto o stemming aproxima algumas formas de uma palavra por meio de seus radicais.
+
+Uma análise estatística conta ocorrências e organiza os resultados por frequência. A frequência ajuda a explorar os documentos, mas a interpretação dos resultados exige observar o contexto. Palavras frequentes nem sempre representam os conceitos mais importantes de um texto.
+
+Neste projeto, o processamento deve ser transparente: o usuário acompanha os textos, as palavras filtradas, os radicais e o ranking final. Assim, a análise pode ser explicada e revisada durante a apresentação.
